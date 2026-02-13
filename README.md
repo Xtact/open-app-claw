@@ -1,8 +1,7 @@
 🏗️ OpenAppClaw Build — The AI App Store Factory
 <p align="center">
 <picture>
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/openclaw/openappclaw-build/main/docs/assets/openappclaw-logo-text-dark.png">
-<img src="https://raw.githubusercontent.com/openclaw/openappclaw-build/main/docs/assets/openappclaw.png" alt="OpenAppClaw Build" width="500">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/openappclaw-build/main/docs/assets/openappclaw.png"> <img src="https://raw.githubusercontent.com/openappclaw-build/main/docs/assets/openappclaw.png" alt="OpenAppClaw Build" width="500">
 </picture>
 </p>
 <p align="center">
