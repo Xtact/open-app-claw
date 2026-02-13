@@ -1,7 +1,7 @@
 🏗️ OpenAppClaw Build — The AI App Store Factory
 <p align="center">
 <picture>
-<source media="(prefers-color-scheme: light)" srcset="https://github.com/Xtact/open-app-claw/docs/assets/OpenAppClaw.PNG"> <img src="https://github.com/Xtact/open-app-claw/docs/assets/OpenAppClaw.PNG) alt="OpenAppClaw Build" width="500">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xtact/open-app-claw/refs/heads/main/docs/assets/OpenAppClaw.PNG"> <img src="https://raw.githubusercontent.com/Xtact/open-app-claw/refs/heads/main/docs/assets/OpenAppClaw.PNG") alt="OpenAppClaw Build" width="500">
 </picture>
 </p>
 <p align="center">
