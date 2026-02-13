@@ -2,8 +2,8 @@
 
 <p align="center">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.png">
-        <img src="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.png" alt="OpenClaw" width="500">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xtact/open-app-claw/docs/assets/OpenAppClaw.PNG">
+        <img src=" https://raw.githubusercontent.com/Xtact/open-app-claw/docs/assets/OpenAppClaw.PNG" >img alt="OpenClaw" width="500">
     </picture>
 </p>
 
