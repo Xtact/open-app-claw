@@ -13,12 +13,13 @@
 <a href="https://discord.gg/clawd"><img src="https://img.shields.io/badge/Discord-Join_The_Crew-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blueviolet.svg?style=for-the-badge" alt="MIT License"></a>
 </p>
-OpenAppClaw Build is the world's first Agentic App Factory. It allows you to build, test, sign, and submit REAL native applications to the Apple App Store and Google Play Store from any operating system (Windows, Linux, macOS).
+OpenAppClaw Build
+The World's First Agentic App Factory.
+OpenAppClaw Build allows you to build, test, sign, and submit REAL native applications to the Apple App Store and Google Play Store from any operating system (Windows, Linux, macOS).
 Powered by the OpenClaw Agentic Platform, this tool eliminates the single biggest barrier in mobile development: The Apple Ecosystem Wall. You no longer need to own a Mac, learn Xcode, or wrestle with Provisioning Profiles to ship an iOS app. Your AI Agent handles the code, the compilation, and the compliance.
 Website · Docs · Showcase · Getting Started · Discord
 🚀 Why OpenAppClaw Build?
-Developing mobile apps is hard. Releasing them is harder.
-OpenAppClaw Build solves the "Last Mile" problem of mobile development.
+Developing mobile apps is hard. Releasing them is harder. OpenAppClaw Build solves the "Last Mile" problem of mobile development.
 | The Old Way (Pain) 😫 | The OpenAppClaw Way (Power) ⚡ |
 |---|---|
 | Buy a $2,000 MacBook just to compile iOS apps. | Build on Windows/Linux using our headless agentic cloud containers. |
@@ -28,12 +29,12 @@ OpenAppClaw Build solves the "Last Mile" problem of mobile development.
 📦 Features
 🤖 The Builder Agent
 Your personal DevOps engineer. It doesn't just write code; it understands the build pipeline.
- * Scaffold instantly: "Create a React Native crypto wallet app with dark mode."
- * Fix bugs: " The build failed on Android linting. Fix it and retry."
+ * Scaffold Instantly: "Create a React Native crypto wallet app with dark mode."
+ * Fix Bugs: "The build failed on Android linting. Fix it and retry."
  * Asset Generation: Generates app icons, splash screens, and store screenshots automatically using integrated diffusion models.
 🍎 iOS Compilation on Windows/Linux
 OpenAppClaw Build abstracts the OS layer.
- * Uses ephemeral, headless macOS runners (or local Docker containers for Android) to perform the heavy lifting.
+ * Headless Runners: Uses ephemeral, headless macOS runners (or local Docker containers for Android) to perform the heavy lifting.
  * Zero-Config Signing: The agent talks directly to the Apple Developer API to fetch certificates.
 🚢 Store Command Center
 Direct integration with App Store Connect and Google Play Console.
@@ -57,8 +58,7 @@ mkdir my-dream-app && cd my-dream-app
 openappclaw agent --task "Scaffold a fitness tracking app using React Native and Expo. Include a pedometer feature."
 
 4. Build & Ship
-# The magic command. 
-# This bundles the app, signs it, and uploads it to TestFlight and Internal Testing track.
+The magic command. This bundles the app, signs it, and uploads it to TestFlight and Internal Testing track.
 openappclaw ship --target all --track beta
 
 🧠 The Architecture
@@ -76,7 +76,7 @@ graph TD
 
 💬 Supported Channels
 Interact with your build agent where you work. Receive build notifications and approve releases directly in:
- * Slack / Discord / Teams: "Build #402 is ready for review. [Download Link]. Approve upload to Production?"
+ * Slack / Discord / Teams: "Build https://www.google.com/search?q=%23402 is ready for review. [Download Link]. Approve upload to Production?"
  * VS Code Extension: Watch the build logs stream in real-time.
 🧩 Supported Frameworks
 The Builder Agent is trained on the latest documentation for:
@@ -95,10 +95,10 @@ We know your signing keys are sensitive.
  * [x] v2.0: Remote iOS Building (Headless Runners)
  * [ ] v2.5: AI-Generated App Store Screenshots & Video Previews
  * [ ] v3.0: "Self-Healing" Builds – Agent automatically fixes compile errors without human intervention.
-Star History
 Community & Support
 Join the revolution. Stop configuring environments, start shipping apps.
  * Discord: Join the #builders channel
  * Twitter/X: @OpenAppClaw
  * Issues: Report a bug
 OpenAppClaw Build — The code is local. The reach is global.
+Would you like me to create a separate CONTRIBUTING.md or README.md file specifically for the technical documentation part of this project?
