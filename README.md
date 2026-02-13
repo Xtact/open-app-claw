@@ -1,4 +1,4 @@
-OpenAppClaw Build — The AI App Store Factory
+### OpenAppClaw Build — The AI App Store Factory
 <p align="center">
 <picture>
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xtact/open-app-claw/refs/heads/main/docs/assets/OpenAppClaw.PNG"> <img src="https://raw.githubusercontent.com/Xtact/open-app-claw/refs/heads/main/docs/assets/OpenAppClaw.PNG") alt="OpenAppClaw Build" width="500">
