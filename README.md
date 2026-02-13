@@ -72,27 +72,28 @@ Direct integration with App Store Connect and Google Play Console.
 ```bash
 npm install -g openappclaw-build@latest
 # or: pnpm add -g openappclaw-build
-2. Onboard & Connect Accounts
-The wizard will securely link your Apple Developer and Google Play Console credentials to your local keychain.
 
 ### 2. Onboard & Connect Accounts
 The wizard will securely link your Apple Developer and Google Play Console credentials to your local keychain.
-bash
+```bash
 openappclaw onboard --type builder
+
 ### 3. Initialize a Project
 # Create a new project directory
+```bash
 mkdir my-dream-app && cd my-dream-app
 
 # Ask the agent to scaffold the base
 openappclaw agent --task "Scaffold a fitness tracking app using React Native and Expo. Include a pedometer feature."
+
 ### 4. Build & Ship
 The magic command. This bundles the app, signs it, and uploads it to TestFlight and Internal Testing track.
-bash
+```bash
 openappclaw ship --target all --track beta
 
 ### 🧠 The Architecture
 OpenAppClaw Build sits on top of the core OpenClaw Gateway, utilizing specialized Worker Nodes for compilation.
-mermaid
+'''mermaid
 graph TD
     User[User (Windows/Linux)] -->|Prompt: 'Ship it'| Agent[OpenAppClaw Agent]
     Agent -->|Code Gen| LocalRepo[Local Repository]
