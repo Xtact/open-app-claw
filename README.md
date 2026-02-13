@@ -2,7 +2,7 @@
 <p align="center">
 <picture>
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/openclaw/openappclaw-build/main/docs/assets/openappclaw-logo-text-dark.png">
-<img src="https://raw.githubusercontent.com/openclaw/openappclaw-build/main/docs/assets/openappclaw-logo-text.png" alt="OpenAppClaw Build" width="500">
+<img src="https://raw.githubusercontent.com/openclaw/openappclaw-build/main/docs/assets/openappclaw.png" alt="OpenAppClaw Build" width="500">
 </picture>
 </p>
 <p align="center">
