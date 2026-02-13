@@ -1,3 +1,24 @@
+OpenAppClaw Build — The AI App Store Factory
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xtact/open-app-claw/refs/heads/main/docs/assets/OpenAppClaw.PNG"> <img src="https://raw.githubusercontent.com/Xtact/open-app-claw/refs/heads/main/docs/assets/OpenAppClaw.PNG") alt="OpenAppClaw Build" width="500">
+</picture>
+</p>
+<p align="center">
+<strong>PROMPT. BUILD. SHIP. REPEAT.</strong>
+</p>
+<p align="center">
+<a href="https://github.com/openclaw/openappclaw-build/actions"><img src="https://img.shields.io/badge/Build-Passing-00f2ff?style=for-the-badge&logo=githubactions&logoColor=black" alt="Build Status"></a>
+<a href="https://github.com/openclaw/openappclaw-build/releases"><img src="https://img.shields.io/badge/Version-2.0.0-4c00ff?style=for-the-badge&logo=semver&logoColor=white" alt="Release"></a>
+<a href="https://discord.gg/clawd"><img src="https://img.shields.io/badge/Discord-Join_The_Crew-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blueviolet.svg?style=for-the-badge" alt="MIT License"></a>
+</p>
+OpenAppClaw Build
+The World's First Agentic App Factory.
+OpenAppClaw Build allows you to build, test, sign, and submit REAL native applications to the Apple App Store and Google Play Store from any operating system (Windows, Linux, macOS).
+Powered by the OpenClaw Agentic Platform, this tool eliminates the single biggest barrier in mobile development: The Apple Ecosystem Wall. You no longer need to own a Mac, learn Xcode, or wrestle with Provisioning Profiles to ship an iOS app. Your AI Agent handles the code, the compilation, and the compliance.
+Website · Docs · Showcase · Getting Started · Discord
+🚀 Why OpenAppClaw Build?
 # OpenAppClaw Build
 
 **The World's First Agentic App Factory.**
