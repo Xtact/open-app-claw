@@ -15,10 +15,6 @@
 <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blueviolet.svg?style=for-the-badge" alt="MIT License"></a>
 </p>
 
-<strong> OpenAppClaw Build - The World's First Agentic App Factory. </strong> 
-OpenAppClaw Build allows you to build, test, sign, and submit REAL native applications to the Apple App Store and Google Play Store from any operating system (Windows, Linux, macOS).
-Powered by the OpenClaw Agentic Platform, this tool eliminates the single biggest barrier in mobile development: The Apple Ecosystem Wall. You no longer need to own a Mac, learn Xcode, or wrestle with Provisioning Profiles to ship an iOS app. Your AI Agent handles the code, the compilation, and the compliance.
-Website · Docs · Showcase · Getting Started · Discord
 # OpenAppClaw Build
 
 **The World's First Agentic App Factory.**
